@@ -31,7 +31,7 @@ We aim to deliver a sustainable ecosystem through **DeFi, staking, and our innov
 ---
 
 ## 📖 Documentation
-- 📜 **Liitepaper:** [Read Whitepaper](https://github.com/helyontoken/helyon-token/blob/main/HELYON%20TOKEN%20LITEPAPER.pdf)
+- 📜 **Liitepaper:** [Read Litepaper](https://github.com/helyontoken/helyon-token/blob/main/HELYON%20TOKEN%20LITEPAPER.pdf)
 - 📊 **Tokenomics:** [View Tokenomics](https://www.helyon.org/#tokenomics)
 - 🗺️ **Roadmap:** [Explore Roadmap](https://www.helyon.org/#roadmap)   
 
